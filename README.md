@@ -65,3 +65,37 @@ To deal with class imbalance in trend labels:
 - **Undersampling** (Random undersampling)
 
 ---
+
+## 📌 Requirements
+
+- Python 3.8+
+- pandas
+- numpy
+- scikit-learn
+- xgboost
+- imbalanced-learn
+- matplotlib
+- seaborn
+
+---
+
+## 🤝 Contributions
+
+Feel free to fork this repository and submit pull requests if you’d like to:
+
+- 📈 **Add new macroeconomic indicators**  
+  Expand the dataset by integrating additional economic signals such as housing starts, consumer sentiment, or labor market trends.
+
+- 🤖 **Improve model performance**  
+  Optimize hyperparameters, try advanced ensemble techniques, or introduce stacking models for better prediction accuracy.
+
+- 🧠 **Try out deep learning methods (e.g., LSTM)**  
+  Explore time-series modeling with neural networks like LSTMs or Transformers to capture long-term dependencies in economic data.
+
+- 📊 **Enhance data visualizations**  
+  Add interactive plots or dashboards to better understand trends, correlations, and model predictions.
+
+- 🧪 **Add evaluation metrics or alternative ML models**  
+  Include additional evaluation metrics (ROC-AUC, precision-recall curves) or experiment with new algorithms (e.g., LightGBM, CatBoost).
+
+
